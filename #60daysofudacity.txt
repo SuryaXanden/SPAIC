@@ -1,0 +1,83 @@
+(27 / 06 / 2019)
+Day 1:
+* Pledged to keep up a streak of 60 days of learning.
+* Started Lesson 1
+
+(28 / 06 / 2019)
+Day 2:
+* Completed Lesson 1
+* Started Lesson 2
+
+(29 / 06 / 2019)
+Day 3:
+* Completed Lesson 2
+* Started Lesson 3
+
+(30 / 06 / 2019)
+Day 4:
+* Completed Lesson 3
+* Started Lesson 4
+
+(01 / 07 / 2019)
+Day 5:
+* Completed Lesson 4
+* Started Lesson 5
+
+(02 / 07 / 2019)
+Day 6:
+* Completed Lesson 5
+* Started Lesson 6
+
+(03 / 07 / 2019)
+Day 7:
+* Completed Lesson 6
+* Started Lesson 7
+
+(04 / 07 / 2019)
+Day 8:
+* Completed Lesson 7
+* Started Lesson 8
+
+(05 / 07 / 2019)
+Day 9:
+* Completed Lesson 8
+* Started Lesson 9
+
+(06 / 07 / 2019)
+Day 10:
+* Completed Lesson 9
+
+(07 / 07 / 2019)
+Day 11:
+* Learning Open CV for Image processing
+
+(08 / 07 / 2019)
+Day 12:
+* Working on connection MEAN stack with a DL model for deployment
+* Created a Youtube downloader web service using Quart
+
+(09 / 07 / 2019)
+Day 13:
+* I tried building a little application for exploring Open CV, intending to make the desktop more responsive to the user's background.
+* An ideal instance of using this app would be to run this after the user login to set a new desktop wallpaper.
+
+(10 / 07 / 2019)
+Day 14:
+* Started a project on document classification using OpenCV and TesseractOCR.
+
+(11 / 07 / 2019)
+Day 15:
+* Working on deploying a Python project by integrating it with MEAN stack.
+
+
+(12 / 07 / 2019)
+Day 16:
+* Learning Image processing with OpenCV.
+
+(13 / 07 / 2019)
+Day 17:
+* Working on Image classification project with Pytorch.
+
+(14 / 07 / 2019)
+Day 18:
+* Revised Differential privacy concepts.
