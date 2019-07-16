@@ -81,3 +81,11 @@ Day 17:
 (14 / 07 / 2019)
 Day 18:
 * Revised Differential privacy concepts.
+
+(15 / 07 / 2019)
+Day 19:
+* Started learning Pytorch for a project.
+
+(16 / 07 / 2019)
+Day 20:
+* Continued to learn Pytorch.
