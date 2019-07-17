@@ -89,3 +89,7 @@ Day 19:
 (16 / 07 / 2019)
 Day 20:
 * Continued to learn Pytorch.
+
+(17 / 07 / 2019)
+Day 21:
+* Continued learning Pytorch.
