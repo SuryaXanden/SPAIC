@@ -93,3 +93,11 @@ Day 20:
 (17 / 07 / 2019)
 Day 21:
 * Continued learning Pytorch.
+
+(18 / 07 / 2019)
+Day 22:
+* Continued learning Pytorch.
+
+(19 / 07 / 2019)
+Day 23:
+* Continued learning Pytorch.
