@@ -101,3 +101,11 @@ Day 22:
 (19 / 07 / 2019)
 Day 23:
 * Continued learning Pytorch.
+
+(20 / 07 / 2019)
+Day 24:
+* Continued learning Pytorch.
+
+(21 / 07 / 2019)
+Day 25:
+* Learning to deploy DL model on cloud.
