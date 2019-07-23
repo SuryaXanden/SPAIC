@@ -109,3 +109,11 @@ Day 24:
 (21 / 07 / 2019)
 Day 25:
 * Learning to deploy DL model on cloud.
+
+(22 / 07 / 2019)
+Day 26:
+* Working on a text classification model with NB and SVM.
+
+(23 / 07 / 2019)
+Day 27:
+* Revised most commonly used Machine Learning algorithms.
