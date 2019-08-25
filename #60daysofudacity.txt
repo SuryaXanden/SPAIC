@@ -69,7 +69,6 @@ Day 14:
 Day 15:
 * Working on deploying a Python project by integrating it with MEAN stack.
 
-
 (12 / 07 / 2019)
 Day 16:
 * Learning Image processing with OpenCV.
@@ -197,3 +196,53 @@ Day 46:
 (12 / 08 / 2019 )
 Day 47:
 * Continued revising lesson 9.
+
+(13 / 08 / 2019 )
+Day 48:
+* Learning data pre-processing and aggregation for dataset preparation.
+
+(14 / 08 / 2019 )
+Day 49:
+* Learnt about data visualization with Metabase.
+
+(15 / 08 / 2019 )
+Day 50:
+* Exploring metabase.
+
+(16 / 08 / 2019 )
+Day 51:
+* Started to learn about Reinforcement learning.
+
+(17 / 08 / 2019 )
+Day 52:
+* Continued intro to Reinforcement learning.
+
+(18 / 08 / 2019 )
+Day 53:
+* Learning Windows desktop automation.
+
+(19 / 08 / 2019 )
+Day 54:
+* Started an image classification project.
+* Preparing dataset for the same.
+* Learning about CNNs.
+
+(20 / 08 / 2019 )
+Day 55:
+* Exploring YOLO model.
+
+(21 / 08 / 2019 )
+Day 56:
+* Exploring data visulation with Redash.
+
+(22 / 08 / 2019 )
+Day 57:
+* Explored socket programming with python.
+
+(24 / 08 / 2019 )
+Day 58:
+* Working on a Deep Learning project architecture that uses MEAN stack and Flask API.
+
+(25 / 08 / 2019 )
+Day 59:
+* Working on a Flask API for DL project.
